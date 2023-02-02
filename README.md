@@ -6,7 +6,7 @@ A daily planner to create a schedule that displays the current day at the top of
 # Features
 1. Displays the current day and time at the top of the calendar
 2. Provides time blocks for standard business hours
-3. Color-coded time blocks to indicate whether it is in the past, present, or future
+3. Color-coded time blocks to indicate whether it is in the past (grey), present (red), or future (green)
 4. Ability to enter events in time blocks
 5. Event text saved in local storage
 6. Saved events persist even after the page is refreshed
