@@ -1,4 +1,4 @@
-# Work dDy Scheduler
+# Work Day Scheduler
 
 # Introduction
 A daily planner to create a schedule that displays the current day at the top of the calendar and provides time blocks for standard business hours. Each time block is color-coded to indicate whether it is in the past, present, or future and allows the user to enter events. The saved events persist even after the page is refreshed.
